@@ -1,0 +1,24 @@
+{
+  "name": "app_scan_parser",
+  "version": "1.0.0",
+  "description": "IMB App Scan report parser",
+  "main": "parser.js",
+  "dependencies": {
+    "exceljs": "^1.5.1",
+    "htmlparser": "^1.7.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node parser.js <html_files>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaChaudhary/AppScanParser.git"
+  },
+  "author": "Aditya Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaChaudhary/AppScanParser/issues"
+  },
+  "homepage": "https://github.com/AdityaChaudhary/AppScanParser#readme"
+}
