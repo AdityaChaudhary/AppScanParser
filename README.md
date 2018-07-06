@@ -1,6 +1,6 @@
-### AppScan Report Parser
+## AppScan Report Parser
+###### Developed By: Aditya Chaudhary
 Converts IBM App Scan report's HTML files to spreadsheet.
---- By Aditya Chaudhary
 
 ### Installation
 
